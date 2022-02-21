@@ -7,6 +7,8 @@
 }
 
 
+
+
 .navbar {
     background: #040404;
     height: 65px;
@@ -323,7 +325,6 @@
   #main__img {
       height: 100%;
       width: 100%;
-      opacity: ;
   }
 
 /* Mobile Responsive */
